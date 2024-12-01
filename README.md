@@ -1,4 +1,4 @@
-Hello! I'm Ian, welcome to my virtual abode :)
+Hello! I'm Ian, welcome to GitHub Page :)
 
 <!---
 IandominusRex/IandominusRex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
